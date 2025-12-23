@@ -13,7 +13,7 @@ Ce projet est une application web développée avec Django permettant aux utilis
 ## Technologies utilisées
 
 - Python && Django
-- SQLite3 (ou autre SGBD configurable)
+- SQLite3
 - HTML / CSS / Bootstrap
 - JavaScript
 
